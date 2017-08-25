@@ -12,6 +12,14 @@
 
 The present repository contains material developped during the [Barista data science workshop](https://sites.google.com/ska.ac.za/barista/) held from 6th to 11th August 2017 in Flic-en-Flac (Mauritius).
 
+Last.fm dataset, the official song tags and song similarity collection for the Million Song Dataset, available at: [http://labrosa.ee.columbia.edu/millionsong/lastfm](http://labrosa.ee.columbia.edu/millionsong/lastfm)
+
+### Reference :
+
+Thierry Bertin-Mahieux, Daniel P.W. Ellis, Brian Whitman, and Paul Lamere.   
+The Million Song Dataset. In Proceedings of the 12th International Society  
+for Music Information Retrieval Conference (ISMIR 2011), 2011.  
+
 ## Prerequisites
 
 The present code has been developed under python3.x. You will need to have the following installed on your computer to make it work :
