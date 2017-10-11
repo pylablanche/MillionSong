@@ -24,10 +24,10 @@ for Music Information Retrieval Conference (ISMIR 2011), 2011.
 
 The present code has been developed under python3.x. You will need to have the following installed on your computer to make it work :
 
-* Python 3.x
-* Numpy >= 1.13.0
-* Scikit-learn >= 0.18.1
-* jupyter >= 1.0.0 (only useful to run the tuto notebook)
+* python 3.x
+* numpy >= 1.13.0
+* scikit-learn >= 0.18.1
+* jupyter >= 1.0.0 (only useful to run the notebooks)
 
 ## License
 This project is licensed under the MIT License (see `LICENSE` for details) 
